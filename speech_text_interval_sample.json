@@ -1,0 +1,188 @@
+[
+    [
+        {"documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d", "documentKind": "SpeechTextInterval", "start": "00: 00: 21.7600000", "end": "00: 00: 30.8000000", "best": "00: 00: 21.7600000", "relevance": 0.9085568189620972
+        },
+        {"documentId": "63527c7e-ff44-4899-89de-daafa1ea077b", "documentKind": "SpeechTextInterval", "start": "00: 00: 07.1600000", "end": "00: 00: 12", "best": "00: 00: 07.1600000", "relevance": 0.9083883166313171
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 00.1600000", "end": "00: 00: 08.3200000", "best": "00: 00: 01.7200000", "relevance": 0.9054257869720459
+        },
+        {"documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d", "documentKind": "SpeechTextInterval", "start": "00: 00: 13.2400000", "end": "00: 00: 21.4800000", "best": "00: 00: 13.8400000", "relevance": 0.9006986021995544
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 55.9200000", "end": "00: 00: 58.8800000", "best": "00: 00: 55.9200000", "relevance": 0.8975781202316284
+        },
+        {"documentId": "02a504c9cd28296a8b74394ed7488045", "documentKind": "SpeechTextInterval", "start": "00: 00: 42.2800000", "end": "00: 00: 52.3600000", "best": "00: 00: 42.2800000", "relevance": 0.8974685668945312
+        },
+        {"documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe", "documentKind": "SpeechTextInterval", "start": "00: 00: 42.2800000", "end": "00: 00: 52.3600000", "best": "00: 00: 42.2800000", "relevance": 0.8974685668945312
+        },
+        {"documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d", "documentKind": "SpeechTextInterval", "start": "00: 00: 00.8800000", "end": "00: 00: 05.8400000", "best": "00: 00: 00.8800000", "relevance": 0.8962950110435486
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 01: 34.0800000", "end": "00: 01: 41.1200000", "best": "00: 01: 34.0800000", "relevance": 0.8953577280044556
+        },
+        {"documentId": "02a504c9cd28296a8b74394ed7488045", "documentKind": "SpeechTextInterval", "start": "00: 00: 58.4400000", "end": "00: 01: 03.2800000", "best": "00: 00: 58.4400000", "relevance": 0.889315664768219
+        },
+        {"documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe", "documentKind": "SpeechTextInterval", "start": "00: 00: 58.4400000", "end": "00: 01: 03.2800000", "best": "00: 00: 58.4400000", "relevance": 0.889315664768219
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 42.1600000", "end": "00: 00: 46.0800000", "best": "00: 00: 42.1600000", "relevance": 0.8883822560310364
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 01: 00.9200000", "end": "00: 01: 05.6000000", "best": "00: 01: 00.9200000", "relevance": 0.8880360722541809
+        },
+        {"documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d", "documentKind": "SpeechTextInterval", "start": "00: 00: 35.7600000", "end": "00: 00: 39.4800000", "best": "00: 00: 35.7600000", "relevance": 0.8868748545646667
+        },
+        {"documentId": "63527c7e-ff44-4899-89de-daafa1ea077b", "documentKind": "SpeechTextInterval", "start": "00: 00: 00.2400000", "end": "00: 00: 03.2400000", "best": "00: 00: 00.2400000", "relevance": 0.8854224681854248
+        },
+        {"documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d", "documentKind": "SpeechTextInterval", "start": "00: 00: 45.2400000", "end": "00: 00: 57.8000000", "best": "00: 00: 49.1600000", "relevance": 0.8848819732666016
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 46.3200000", "end": "00: 00: 48.4400000", "best": "00: 00: 46.3200000", "relevance": 0.8841357231140137
+        },
+        {"documentId": "02a504c9cd28296a8b74394ed7488045", "documentKind": "SpeechTextInterval", "start": "00: 00: 32.6800000", "end": "00: 00: 36.0800000", "best": "00: 00: 32.6800000", "relevance": 0.8838268518447876
+        },
+        {"documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe", "documentKind": "SpeechTextInterval", "start": "00: 00: 32.6800000", "end": "00: 00: 36.0800000", "best": "00: 00: 32.6800000", "relevance": 0.8838268518447876
+        },
+        {"documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39", "documentKind": "SpeechTextInterval", "start": "00: 00: 37.1600000", "end": "00: 00: 42.4800000", "best": "00: 00: 37.7600000", "relevance": 0.8831028938293457
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 01: 29.1600000", "end": "00: 01: 33.7200000", "best": "00: 01: 29.7600000", "relevance": 0.8828389048576355
+        },
+        {"documentId": "02a504c9cd28296a8b74394ed7488045", "documentKind": "SpeechTextInterval", "start": "00: 00: 20.4000000", "end": "00: 00: 26.6800000", "best": "00: 00: 20.4000000", "relevance": 0.8825681805610657
+        },
+        {"documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe", "documentKind": "SpeechTextInterval", "start": "00: 00: 20.4000000", "end": "00: 00: 26.6800000", "best": "00: 00: 20.4000000", "relevance": 0.8825681805610657
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 01: 15.3600000", "end": "00: 01: 19.1600000", "best": "00: 01: 15.3600000", "relevance": 0.8821247816085815
+        },
+        {"documentId": "63527c7e-ff44-4899-89de-daafa1ea077b", "documentKind": "SpeechTextInterval", "start": "00: 00: 18.0800000", "end": "00: 00: 21.1600000", "best": "00: 00: 18.0800000", "relevance": 0.8802328705787659
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 16.6000000", "end": "00: 00: 19.1600000", "best": "00: 00: 16.6000000", "relevance": 0.8774589896202087
+        },
+        {"documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39", "documentKind": "SpeechTextInterval", "start": "00: 00: 07.9600000", "end": "00: 00: 11.4400000", "best": "00: 00: 10.2400000", "relevance": 0.8765900731086731
+        },
+        {"documentId": "43b6d3ad-ffb5-414a-bea4-43f9dd2ec0fc", "documentKind": "SpeechTextInterval", "start": "00: 00: 00.0400000", "end": "00: 00: 05.4400000", "best": "00: 00: 00.0400000", "relevance": 0.8752733469009399
+        },
+        {"documentId": "02a504c9cd28296a8b74394ed7488045", "documentKind": "SpeechTextInterval", "start": "00: 00: 07.7200000", "end": "00: 00: 12.2800000", "best": "00: 00: 08.8400000", "relevance": 0.8745662569999695
+        },
+        {"documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe", "documentKind": "SpeechTextInterval", "start": "00: 00: 07.7200000", "end": "00: 00: 12.2800000", "best": "00: 00: 08.8400000", "relevance": 0.8745662569999695
+        },
+        {"documentId": "43b6d3ad-ffb5-414a-bea4-43f9dd2ec0fc", "documentKind": "SpeechTextInterval", "start": "00: 00: 09.8800000", "end": "00: 00: 15.4000000", "best": "00: 00: 09.8800000", "relevance": 0.8721815943717957
+        },
+        {"documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39", "documentKind": "SpeechTextInterval", "start": "00: 00: 49.0800000", "end": "00: 00: 59.6000000", "best": "00: 00: 57.4800000", "relevance": 0.8719376921653748
+        },
+        {"documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39", "documentKind": "SpeechTextInterval", "start": "00: 00: 14.5200000", "end": "00: 00: 18.7200000", "best": "00: 00: 16.2800000", "relevance": 0.8706176280975342
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 40.7200000", "end": "00: 00: 42.8000000", "best": "00: 00: 40.7200000", "relevance": 0.8680211901664734
+        },
+        {"documentId": "63527c7e-ff44-4899-89de-daafa1ea077b", "documentKind": "SpeechTextInterval", "start": "00: 00: 26.5600000", "end": "00: 00: 34.4400000", "best": "00: 00: 32.1190000", "relevance": 0.8675112128257751
+        },
+        {"documentId": "43b6d3ad-ffb5-414a-bea4-43f9dd2ec0fc", "documentKind": "SpeechTextInterval", "start": "00: 00: 06.1200000", "end": "00: 00: 08.9600000", "best": "00: 00: 06.6400000", "relevance": 0.8662277460098267
+        },
+        {"documentId": "02a504c9cd28296a8b74394ed7488045", "documentKind": "SpeechTextInterval", "start": "00: 00: 01.0800000", "end": "00: 00: 04.1600000", "best": "00: 00: 01.0800000", "relevance": 0.8660964369773865
+        },
+        {"documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe", "documentKind": "SpeechTextInterval", "start": "00: 00: 01.0800000", "end": "00: 00: 04.1600000", "best": "00: 00: 01.0800000", "relevance": 0.8660964369773865
+        },
+        {"documentId": "02a504c9cd28296a8b74394ed7488045", "documentKind": "SpeechTextInterval", "start": "00: 00: 27.3200000", "end": "00: 00: 31.7600000", "best": "00: 00: 27.3200000", "relevance": 0.8556730151176453
+        },
+        {"documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe", "documentKind": "SpeechTextInterval", "start": "00: 00: 27.3200000", "end": "00: 00: 31.7600000", "best": "00: 00: 27.3200000", "relevance": 0.8556730151176453
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 30.7200000", "end": "00: 00: 32.7600000", "best": "00: 00: 30.7200000", "relevance": 0.8526038527488708
+        },
+        {"documentId": "02a504c9cd28296a8b74394ed7488045", "documentKind": "SpeechTextInterval", "start": "00: 00: 16.6800000", "end": "00: 00: 19.8800000", "best": "00: 00: 16.6800000", "relevance": 0.8358396291732788
+        },
+        {"documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe", "documentKind": "SpeechTextInterval", "start": "00: 00: 16.6800000", "end": "00: 00: 19.8800000", "best": "00: 00: 16.6800000", "relevance": 0.8358396291732788
+        },
+        {"documentId": "43b6d3ad-ffb5-414a-bea4-43f9dd2ec0fc", "documentKind": "SpeechTextInterval", "start": "00: 00: 21.4400000", "end": "00: 00: 24.4000000", "best": "00: 00: 22.0400000", "relevance": 0.8109017610549927
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 01: 19.4000000", "end": "00: 01: 28.7600000", "best": "00: 01: 24.0800000", "relevance": 0.7833520770072937
+        },
+        {"documentId": "02a504c9cd28296a8b74394ed7488045", "documentKind": "SpeechTextInterval", "start": "00: 00: 53.4800000", "end": "00: 00: 56.7600000", "best": "00: 00: 55.5600000", "relevance": 0.7734034061431885
+        },
+        {"documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe", "documentKind": "SpeechTextInterval", "start": "00: 00: 53.4800000", "end": "00: 00: 56.7600000", "best": "00: 00: 55.5600000", "relevance": 0.7734034061431885
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 22.4800000", "end": "00: 00: 38.4800000", "best": "00: 00: 31.2000000", "relevance": 0.7713093757629395
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 09.0800000", "end": "00: 00: 12.2000000", "best": "00: 00: 11.3600000", "relevance": 0.7683737277984619
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 38.8400000", "end": "00: 00: 41.2800000", "best": "00: 00: 41.0400000", "relevance": 0.7673400044441223
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 12.6800000", "end": "00: 00: 14.7600000", "best": "00: 00: 14.3200000", "relevance": 0.7629802227020264
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 02.2000000", "end": "00: 00: 04.8000000", "best": "00: 00: 03.3200000", "relevance": 0.762735903263092
+        },
+        {"documentId": "63527c7e-ff44-4899-89de-daafa1ea077b", "documentKind": "SpeechTextInterval", "start": "00: 00: 35.5200000", "end": "00: 00: 43.2800000", "best": "00: 00: 36.0800000", "relevance": 0.7604982852935791
+        },
+        {"documentId": "63527c7e-ff44-4899-89de-daafa1ea077b", "documentKind": "SpeechTextInterval", "start": "00: 00: 04.1600000", "end": "00: 00: 06.4000000", "best": "00: 00: 06.1600000", "relevance": 0.7585324645042419
+        },
+        {"documentId": "63527c7e-ff44-4899-89de-daafa1ea077b", "documentKind": "SpeechTextInterval", "start": "00: 00: 49.2400000", "end": "00: 00: 51.4800000", "best": "00: 00: 49.2400000", "relevance": 0.7563818693161011
+        },
+        {"documentId": "02a504c9cd28296a8b74394ed7488045", "documentKind": "SpeechTextInterval", "start": "00: 00: 36.6400000", "end": "00: 00: 41.6800000", "best": "00: 00: 41", "relevance": 0.7557160258293152
+        },
+        {"documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe", "documentKind": "SpeechTextInterval", "start": "00: 00: 36.6400000", "end": "00: 00: 41.6800000", "best": "00: 00: 41", "relevance": 0.7557160258293152
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 59.1600000", "end": "00: 01: 03.1600000", "best": "00: 00: 59.6800000", "relevance": 0.7541098594665527
+        },
+        {"documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39", "documentKind": "SpeechTextInterval", "start": "00: 00: 03", "end": "00: 00: 07.4400000", "best": "00: 00: 06.9600000", "relevance": 0.7538859844207764
+        },
+        {"documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39", "documentKind": "SpeechTextInterval", "start": "00: 00: 22.8800000", "end": "00: 00: 31.7600000", "best": "00: 00: 25.1200000", "relevance": 0.7536183595657349
+        },
+        {"documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39", "documentKind": "SpeechTextInterval", "start": "00: 01: 00.0800000", "end": "00: 01: 01.8400000", "best": "00: 01: 00.9200000", "relevance": 0.7529543042182922
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 23.3600000", "end": "00: 00: 27.4000000", "best": "00: 00: 24.6800000", "relevance": 0.7528335452079773
+        },
+        {"documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d", "documentKind": "SpeechTextInterval", "start": "00: 00: 06.2000000", "end": "00: 00: 12.8800000", "best": "00: 00: 08.1200000", "relevance": 0.7526999711990356
+        },
+        {"documentId": "63527c7e-ff44-4899-89de-daafa1ea077b", "documentKind": "SpeechTextInterval", "start": "00: 00: 12.8800000", "end": "00: 00: 17.5200000", "best": "00: 00: 12.8800000", "relevance": 0.7521423697471619
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 49.6400000", "end": "00: 00: 55.1600000", "best": "00: 00: 52.4000000", "relevance": 0.752046525478363
+        },
+        {"documentId": "43b6d3ad-ffb5-414a-bea4-43f9dd2ec0fc", "documentKind": "SpeechTextInterval", "start": "00: 00: 16.1600000", "end": "00: 00: 19.6400000", "best": "00: 00: 17.8400000", "relevance": 0.7520236968994141
+        },
+        {"documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d", "documentKind": "SpeechTextInterval", "start": "00: 00: 39.9200000", "end": "00: 00: 44.6800000", "best": "00: 00: 40.5200000", "relevance": 0.7511340975761414
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 01: 05.8000000", "end": "00: 01: 08.7600000", "best": "00: 01: 06.5600000", "relevance": 0.7507190108299255
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 05.2800000", "end": "00: 00: 12.4000000", "best": "00: 00: 08.8400000", "relevance": 0.7505844831466675
+        },
+        {"documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39", "documentKind": "SpeechTextInterval", "start": "00: 00: 11.7200000", "end": "00: 00: 14.2800000", "best": "00: 00: 12.5600000", "relevance": 0.7504796981811523
+        },
+        {"documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39", "documentKind": "SpeechTextInterval", "start": "00: 00: 31.9600000", "end": "00: 00: 36.5600000", "best": "00: 00: 32.7200000", "relevance": 0.7498769164085388
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 46.7600000", "end": "00: 00: 52.6800000", "best": "00: 00: 48.0400000", "relevance": 0.7490306496620178
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 01: 09.1200000", "end": "00: 01: 14.9200000", "best": "00: 01: 12.6800000", "relevance": 0.7487587928771973
+        },
+        {"documentId": "43b6d3ad-ffb5-414a-bea4-43f9dd2ec0fc", "documentKind": "SpeechTextInterval", "start": "00: 00: 25.0800000", "end": "00: 00: 28.2400000", "best": "00: 00: 27.8800000", "relevance": 0.7487484216690063
+        },
+        {"documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39", "documentKind": "SpeechTextInterval", "start": "00: 00: 42.8400000", "end": "00: 00: 48.2800000", "best": "00: 00: 46.3600000", "relevance": 0.7479578256607056
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 15.3600000", "end": "00: 00: 20.0800000", "best": "00: 00: 17.0800000", "relevance": 0.746955156326294
+        },
+        {"documentId": "63527c7e-ff44-4899-89de-daafa1ea077b", "documentKind": "SpeechTextInterval", "start": "00: 00: 44.3600000", "end": "00: 00: 48.6400000", "best": "00: 00: 46.4400000", "relevance": 0.7461038827896118
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 53.3600000", "end": "00: 01: 00.6000000", "best": "00: 00: 56.5600000", "relevance": 0.7449443340301514
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 43.3600000", "end": "00: 00: 45.8400000", "best": "00: 00: 44.9200000", "relevance": 0.7441333532333374
+        },
+        {"documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d", "documentKind": "SpeechTextInterval", "start": "00: 00: 31", "end": "00: 00: 35.3200000", "best": "00: 00: 33.9200000", "relevance": 0.7436721920967102
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 34.2400000", "end": "00: 00: 36.6400000", "best": "00: 00: 34.2400000", "relevance": 0.7425535321235657
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 12.9600000", "end": "00: 00: 16.2800000", "best": "00: 00: 15.7600000", "relevance": 0.7413477301597595
+        },
+        {"documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 20.7600000", "end": "00: 00: 21.9600000", "best": "00: 00: 21.5200000", "relevance": 0.7409362196922302
+        },
+        {"documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39", "documentKind": "SpeechTextInterval", "start": "00: 00: 19.0800000", "end": "00: 00: 22.4800000", "best": "00: 00: 20.3200000", "relevance": 0.7399771809577942
+        },
+        {"documentId": "02a504c9cd28296a8b74394ed7488045", "documentKind": "SpeechTextInterval", "start": "00: 00: 12.6400000", "end": "00: 00: 16.2400000", "best": "00: 00: 13.6800000", "relevance": 0.7397987246513367
+        },
+        {"documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe", "documentKind": "SpeechTextInterval", "start": "00: 00: 12.6400000", "end": "00: 00: 16.2400000", "best": "00: 00: 13.6800000", "relevance": 0.7397987246513367
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 19.8800000", "end": "00: 00: 22.3200000", "best": "00: 00: 20.4800000", "relevance": 0.7380195260047913
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 37.6400000", "end": "00: 00: 39.5200000", "best": "00: 00: 37.6400000", "relevance": 0.7361848950386047
+        },
+        {"documentId": "02a504c9cd28296a8b74394ed7488045", "documentKind": "SpeechTextInterval", "start": "00: 00: 04.7200000", "end": "00: 00: 07.1200000", "best": "00: 00: 06.4000000", "relevance": 0.7326842546463013
+        },
+        {"documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe", "documentKind": "SpeechTextInterval", "start": "00: 00: 04.7200000", "end": "00: 00: 07.1200000", "best": "00: 00: 06.4000000", "relevance": 0.7326842546463013
+        },
+        {"documentId": "63527c7e-ff44-4899-89de-daafa1ea077b", "documentKind": "SpeechTextInterval", "start": "00: 00: 22.8000000", "end": "00: 00: 24.8400000", "best": "00: 00: 22.8000000", "relevance": 0.7315705418586731
+        },
+        {"documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0", "documentKind": "SpeechTextInterval", "start": "00: 00: 28.3200000", "end": "00: 00: 29.8400000", "best": "00: 00: 29", "relevance": 0.727539598941803
+        }
+    ]
+]

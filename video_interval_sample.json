@@ -1,0 +1,1018 @@
+[
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:01:43.0030000",
+        "end": "00:01:47.0070000",
+        "best": "00:01:43.0030000",
+        "relevance": 0.45372405648231506
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:00",
+        "end": "00:00:04.0040000",
+        "best": "00:00:03.0030000",
+        "relevance": 0.43770503997802734
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:04.0040000",
+        "end": "00:00:11.0110000",
+        "best": "00:00:05.0050000",
+        "relevance": 0.38417166471481323
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:01:13.0060000",
+        "end": "00:01:17.0100000",
+        "best": "00:01:16.0090000",
+        "relevance": 0.3699815273284912
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:01:10.0030000",
+        "end": "00:01:13.0060000",
+        "best": "00:01:10.0030000",
+        "relevance": 0.3624420166015625
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:58.0250000",
+        "end": "00:01:06.0330000",
+        "best": "00:01:01.0280000",
+        "relevance": 0.3579885959625244
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:01:28.0210000",
+        "end": "00:01:34.0270000",
+        "best": "00:01:30.0230000",
+        "relevance": 0.35581865906715393
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:01:39.0320000",
+        "end": "00:01:43.0030000",
+        "best": "00:01:42.0020000",
+        "relevance": 0.3526535928249359
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:39.0060000",
+        "end": "00:00:45.0120000",
+        "best": "00:00:44.0110000",
+        "relevance": 0.3446056842803955
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:50.0170000",
+        "end": "00:00:58.0250000",
+        "best": "00:00:50.0170000",
+        "relevance": 0.33993959426879883
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:32.0320000",
+        "end": "00:00:39.0060000",
+        "best": "00:00:36.0030000",
+        "relevance": 0.33942410349845886
+    },
+    {
+        "documentId": "63527c7e-ff44-4899-89de-daafa1ea077b",
+        "documentKind": "VideoInterval",
+        "start": "00:00:00",
+        "end": "00:00:05.0050000",
+        "best": "00:00:02.0020000",
+        "relevance": 0.3381904661655426
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:11.0110000",
+        "end": "00:00:16.0160000",
+        "best": "00:00:12.0120000",
+        "relevance": 0.3375909924507141
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:01:34.0270000",
+        "end": "00:01:39.0320000",
+        "best": "00:01:35.0280000",
+        "relevance": 0.3374374806880951
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:45.0120000",
+        "end": "00:00:50.0170000",
+        "best": "00:00:47.0140000",
+        "relevance": 0.3364105820655823
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:01:20.0130000",
+        "end": "00:01:25.0180000",
+        "best": "00:01:23.0160000",
+        "relevance": 0.33470746874809265
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:21.0210000",
+        "end": "00:00:28.0280000",
+        "best": "00:00:21.0210000",
+        "relevance": 0.3313375413417816
+    },
+    {
+        "documentId": "02a504c9cd28296a8b74394ed7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:00",
+        "end": "00:00:04.0040000",
+        "best": "00:00:02.0020000",
+        "relevance": 0.33093276619911194
+    },
+    {
+        "documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe",
+        "documentKind": "VideoInterval",
+        "start": "00:00:00",
+        "end": "00:00:04.0040000",
+        "best": "00:00:02.0020000",
+        "relevance": 0.3309311270713806
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:01:25.0180000",
+        "end": "00:01:28.0210000",
+        "best": "00:01:25.0180000",
+        "relevance": 0.33085083961486816
+    },
+    {
+        "documentId": "63527c7e-ff44-4899-89de-daafa1ea077b",
+        "documentKind": "VideoInterval",
+        "start": "00:00:19.0190000",
+        "end": "00:00:23.0230000",
+        "best": "00:00:19.0190000",
+        "relevance": 0.3232778012752533
+    },
+    {
+        "documentId": "43b6d3ad-ffb5-414a-bea4-43f9dd2ec0fc",
+        "documentKind": "VideoInterval",
+        "start": "00:00:22.0220000",
+        "end": "00:00:29.0290000",
+        "best": "00:00:22.0220000",
+        "relevance": 0.3212776184082031
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:01:06.0330000",
+        "end": "00:01:10.0030000",
+        "best": "00:01:07",
+        "relevance": 0.32020053267478943
+    },
+    {
+        "documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d",
+        "documentKind": "VideoInterval",
+        "start": "00:00:00",
+        "end": "00:00:06.0060000",
+        "best": "00:00:00",
+        "relevance": 0.32017937302589417
+    },
+    {
+        "documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d",
+        "documentKind": "VideoInterval",
+        "start": "00:00:36.0030000",
+        "end": "00:00:41.0080000",
+        "best": "00:00:37.0040000",
+        "relevance": 0.3195524513721466
+    },
+    {
+        "documentId": "43b6d3ad-ffb5-414a-bea4-43f9dd2ec0fc",
+        "documentKind": "VideoInterval",
+        "start": "00:00:00",
+        "end": "00:00:10.0100000",
+        "best": "00:00:01.0010000",
+        "relevance": 0.3180820643901825
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:01:17.0100000",
+        "end": "00:01:20.0130000",
+        "best": "00:01:17.0100000",
+        "relevance": 0.31686273217201233
+    },
+    {
+        "documentId": "63527c7e-ff44-4899-89de-daafa1ea077b",
+        "documentKind": "VideoInterval",
+        "start": "00:00:05.0050000",
+        "end": "00:00:11.0110000",
+        "best": "00:00:08.0080000",
+        "relevance": 0.31598761677742004
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:16.0160000",
+        "end": "00:00:21.0210000",
+        "best": "00:00:17.0170000",
+        "relevance": 0.30857235193252563
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:28.0280000",
+        "end": "00:00:32.0320000",
+        "best": "00:00:29.0290000",
+        "relevance": 0.29899826645851135
+    },
+    {
+        "documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39",
+        "documentKind": "VideoInterval",
+        "start": "00:00:00",
+        "end": "00:00:04.0040000",
+        "best": "00:00:01.0010000",
+        "relevance": 0.2963601350784302
+    },
+    {
+        "documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39",
+        "documentKind": "VideoInterval",
+        "start": "00:00:47.0140000",
+        "end": "00:00:51.0180000",
+        "best": "00:00:50.0170000",
+        "relevance": 0.2952623665332794
+    },
+    {
+        "documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:00",
+        "end": "00:00:04.0040000",
+        "best": "00:00:03.0030000",
+        "relevance": 0.2915220856666565
+    },
+    {
+        "documentId": "02a504c9cd28296a8b74394ed7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:09.0090000",
+        "end": "00:00:14.0140000",
+        "best": "00:00:09.0090000",
+        "relevance": 0.29014474153518677
+    },
+    {
+        "documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe",
+        "documentKind": "VideoInterval",
+        "start": "00:00:09.0090000",
+        "end": "00:00:14.0140000",
+        "best": "00:00:09.0090000",
+        "relevance": 0.29003846645355225
+    },
+    {
+        "documentId": "43b6d3ad-ffb5-414a-bea4-43f9dd2ec0fc",
+        "documentKind": "VideoInterval",
+        "start": "00:00:10.0100000",
+        "end": "00:00:13.0130000",
+        "best": "00:00:11.0110000",
+        "relevance": 0.287808358669281
+    },
+    {
+        "documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:29.0290000",
+        "end": "00:00:35.0020000",
+        "best": "00:00:32.0320000",
+        "relevance": 0.28617891669273376
+    },
+    {
+        "documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39",
+        "documentKind": "VideoInterval",
+        "start": "00:00:57.0240000",
+        "end": "00:01:03.0300000",
+        "best": "00:00:57.0240000",
+        "relevance": 0.286028116941452
+    },
+    {
+        "documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:50.0170000",
+        "end": "00:00:58.0250000",
+        "best": "00:00:57.0240000",
+        "relevance": 0.2839861512184143
+    },
+    {
+        "documentId": "02a504c9cd28296a8b74394ed7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:37.0040000",
+        "end": "00:00:45.0120000",
+        "best": "00:00:43.0100000",
+        "relevance": 0.28251880407333374
+    },
+    {
+        "documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe",
+        "documentKind": "VideoInterval",
+        "start": "00:00:37.0040000",
+        "end": "00:00:45.0120000",
+        "best": "00:00:43.0100000",
+        "relevance": 0.28251585364341736
+    },
+    {
+        "documentId": "63527c7e-ff44-4899-89de-daafa1ea077b",
+        "documentKind": "VideoInterval",
+        "start": "00:00:33",
+        "end": "00:00:36.0030000",
+        "best": "00:00:35.0020000",
+        "relevance": 0.2814282774925232
+    },
+    {
+        "documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe",
+        "documentKind": "VideoInterval",
+        "start": "00:00:14.0140000",
+        "end": "00:00:23.0230000",
+        "best": "00:00:18.0180000",
+        "relevance": 0.2719520330429077
+    },
+    {
+        "documentId": "02a504c9cd28296a8b74394ed7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:14.0140000",
+        "end": "00:00:23.0230000",
+        "best": "00:00:18.0180000",
+        "relevance": 0.2718777358531952
+    },
+    {
+        "documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39",
+        "documentKind": "VideoInterval",
+        "start": "00:00:08.0080000",
+        "end": "00:00:15.0150000",
+        "best": "00:00:11.0110000",
+        "relevance": 0.27030864357948303
+    },
+    {
+        "documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39",
+        "documentKind": "VideoInterval",
+        "start": "00:00:51.0180000",
+        "end": "00:00:54.0210000",
+        "best": "00:00:51.0180000",
+        "relevance": 0.2695923149585724
+    },
+    {
+        "documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39",
+        "documentKind": "VideoInterval",
+        "start": "00:00:38.0050000",
+        "end": "00:00:41.0080000",
+        "best": "00:00:40.0070000",
+        "relevance": 0.26769518852233887
+    },
+    {
+        "documentId": "63527c7e-ff44-4899-89de-daafa1ea077b",
+        "documentKind": "VideoInterval",
+        "start": "00:00:15.0150000",
+        "end": "00:00:19.0190000",
+        "best": "00:00:18.0180000",
+        "relevance": 0.2646544873714447
+    },
+    {
+        "documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:47.0140000",
+        "end": "00:00:50.0170000",
+        "best": "00:00:49.0160000",
+        "relevance": 0.2602868974208832
+    },
+    {
+        "documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe",
+        "documentKind": "VideoInterval",
+        "start": "00:00:54.0210000",
+        "end": "00:00:59.0260000",
+        "best": "00:00:57.0240000",
+        "relevance": 0.260243684053421
+    },
+    {
+        "documentId": "02a504c9cd28296a8b74394ed7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:54.0210000",
+        "end": "00:00:59.0260000",
+        "best": "00:00:57.0240000",
+        "relevance": 0.2601673901081085
+    },
+    {
+        "documentId": "02a504c9cd28296a8b74394ed7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:33",
+        "end": "00:00:37.0040000",
+        "best": "00:00:35.0020000",
+        "relevance": 0.25930774211883545
+    },
+    {
+        "documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe",
+        "documentKind": "VideoInterval",
+        "start": "00:00:33",
+        "end": "00:00:37.0040000",
+        "best": "00:00:35.0020000",
+        "relevance": 0.25930774211883545
+    },
+    {
+        "documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:41.0080000",
+        "end": "00:00:44.0110000",
+        "best": "00:00:42.0090000",
+        "relevance": 0.25833454728126526
+    },
+    {
+        "documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d",
+        "documentKind": "VideoInterval",
+        "start": "00:00:14.0140000",
+        "end": "00:00:17.0170000",
+        "best": "00:00:14.0140000",
+        "relevance": 0.2567151188850403
+    },
+    {
+        "documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39",
+        "documentKind": "VideoInterval",
+        "start": "00:00:54.0210000",
+        "end": "00:00:57.0240000",
+        "best": "00:00:55.0220000",
+        "relevance": 0.2566986382007599
+    },
+    {
+        "documentId": "63527c7e-ff44-4899-89de-daafa1ea077b",
+        "documentKind": "VideoInterval",
+        "start": "00:00:27.0270000",
+        "end": "00:00:30.0300000",
+        "best": "00:00:29.0290000",
+        "relevance": 0.25643882155418396
+    },
+    {
+        "documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d",
+        "documentKind": "VideoInterval",
+        "start": "00:00:22.0220000",
+        "end": "00:00:26.0260000",
+        "best": "00:00:23.0230000",
+        "relevance": 0.2548659145832062
+    },
+    {
+        "documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39",
+        "documentKind": "VideoInterval",
+        "start": "00:00:15.0150000",
+        "end": "00:00:20.0200000",
+        "best": "00:00:18.0180000",
+        "relevance": 0.2545906901359558
+    },
+    {
+        "documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39",
+        "documentKind": "VideoInterval",
+        "start": "00:00:41.0080000",
+        "end": "00:00:47.0140000",
+        "best": "00:00:46.0130000",
+        "relevance": 0.25368696451187134
+    },
+    {
+        "documentId": "43b6d3ad-ffb5-414a-bea4-43f9dd2ec0fc",
+        "documentKind": "VideoInterval",
+        "start": "00:00:13.0130000",
+        "end": "00:00:17.0170000",
+        "best": "00:00:15.0150000",
+        "relevance": 0.2524264454841614
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:18",
+        "end": "00:00:23",
+        "best": "00:00:19",
+        "relevance": 0.250894695520401
+    },
+    {
+        "documentId": "43b6d3ad-ffb5-414a-bea4-43f9dd2ec0fc",
+        "documentKind": "VideoInterval",
+        "start": "00:00:17.0170000",
+        "end": "00:00:22.0220000",
+        "best": "00:00:19.0190000",
+        "relevance": 0.2506866455078125
+    },
+    {
+        "documentId": "02a504c9cd28296a8b74394ed7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:59.0260000",
+        "end": "00:01:02.0290000",
+        "best": "00:01:01.0280000",
+        "relevance": 0.250172883272171
+    },
+    {
+        "documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe",
+        "documentKind": "VideoInterval",
+        "start": "00:00:59.0260000",
+        "end": "00:01:02.0290000",
+        "best": "00:01:01.0280000",
+        "relevance": 0.250172883272171
+    },
+    {
+        "documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:04.0040000",
+        "end": "00:00:09.0090000",
+        "best": "00:00:04.0040000",
+        "relevance": 0.25014254450798035
+    },
+    {
+        "documentId": "02a504c9cd28296a8b74394ed7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:45.0120000",
+        "end": "00:00:51.0180000",
+        "best": "00:00:46.0130000",
+        "relevance": 0.250008225440979
+    },
+    {
+        "documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe",
+        "documentKind": "VideoInterval",
+        "start": "00:00:45.0120000",
+        "end": "00:00:51.0180000",
+        "best": "00:00:46.0130000",
+        "relevance": 0.24991127848625183
+    },
+    {
+        "documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:17.0170000",
+        "end": "00:00:20.0200000",
+        "best": "00:00:17.0170000",
+        "relevance": 0.2486514300107956
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:13",
+        "end": "00:00:18",
+        "best": "00:00:16",
+        "relevance": 0.2473512589931488
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:01:07",
+        "end": "00:01:33",
+        "best": "00:01:07",
+        "relevance": 0.24701254069805145
+    },
+    {
+        "documentId": "63527c7e-ff44-4899-89de-daafa1ea077b",
+        "documentKind": "VideoInterval",
+        "start": "00:00:36.0030000",
+        "end": "00:00:42.0090000",
+        "best": "00:00:39.0060000",
+        "relevance": 0.2465774118900299
+    },
+    {
+        "documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39",
+        "documentKind": "VideoInterval",
+        "start": "00:00:26.0260000",
+        "end": "00:00:32.0320000",
+        "best": "00:00:30.0300000",
+        "relevance": 0.24656566977500916
+    },
+    {
+        "documentId": "63527c7e-ff44-4899-89de-daafa1ea077b",
+        "documentKind": "VideoInterval",
+        "start": "00:00:42.0090000",
+        "end": "00:00:46.0130000",
+        "best": "00:00:42.0090000",
+        "relevance": 0.2441060096025467
+    },
+    {
+        "documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe",
+        "documentKind": "VideoInterval",
+        "start": "00:01:02.0290000",
+        "end": "00:01:05.0320000",
+        "best": "00:01:02.0290000",
+        "relevance": 0.24247461557388306
+    },
+    {
+        "documentId": "02a504c9cd28296a8b74394ed7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:01:02.0290000",
+        "end": "00:01:05.0320000",
+        "best": "00:01:02.0290000",
+        "relevance": 0.2424287497997284
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:02:26",
+        "end": "00:02:37",
+        "best": "00:02:34",
+        "relevance": 0.24183222651481628
+    },
+    {
+        "documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe",
+        "documentKind": "VideoInterval",
+        "start": "00:00:51.0180000",
+        "end": "00:00:54.0210000",
+        "best": "00:00:53.0200000",
+        "relevance": 0.24141375720500946
+    },
+    {
+        "documentId": "02a504c9cd28296a8b74394ed7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:51.0180000",
+        "end": "00:00:54.0210000",
+        "best": "00:00:53.0200000",
+        "relevance": 0.2413143366575241
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:01:33",
+        "end": "00:01:41",
+        "best": "00:01:35",
+        "relevance": 0.24123477935791016
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:02:37",
+        "end": "00:02:50",
+        "best": "00:02:42",
+        "relevance": 0.2408449500799179
+    },
+    {
+        "documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d",
+        "documentKind": "VideoInterval",
+        "start": "00:00:47.0140000",
+        "end": "00:00:55.0220000",
+        "best": "00:00:50.0170000",
+        "relevance": 0.2408105432987213
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:49",
+        "end": "00:01:07",
+        "best": "00:00:59",
+        "relevance": 0.23929060995578766
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:05",
+        "end": "00:00:13",
+        "best": "00:00:05",
+        "relevance": 0.23774701356887817
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:23",
+        "end": "00:00:27",
+        "best": "00:00:23",
+        "relevance": 0.23755623400211334
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:39",
+        "end": "00:00:49",
+        "best": "00:00:39",
+        "relevance": 0.2370574176311493
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:02:11",
+        "end": "00:02:26",
+        "best": "00:02:14",
+        "relevance": 0.23700417578220367
+    },
+    {
+        "documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39",
+        "documentKind": "VideoInterval",
+        "start": "00:00:32.0320000",
+        "end": "00:00:38.0050000",
+        "best": "00:00:34.0010000",
+        "relevance": 0.2365063577890396
+    },
+    {
+        "documentId": "63527c7e-ff44-4899-89de-daafa1ea077b",
+        "documentKind": "VideoInterval",
+        "start": "00:00:23.0230000",
+        "end": "00:00:27.0270000",
+        "best": "00:00:24.0240000",
+        "relevance": 0.23636594414710999
+    },
+    {
+        "documentId": "02a504c9cd28296a8b74394ed7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:23.0230000",
+        "end": "00:00:33",
+        "best": "00:00:28.0280000",
+        "relevance": 0.23552021384239197
+    },
+    {
+        "documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe",
+        "documentKind": "VideoInterval",
+        "start": "00:00:23.0230000",
+        "end": "00:00:33",
+        "best": "00:00:28.0280000",
+        "relevance": 0.2353500872850418
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:02:50",
+        "end": "00:02:56",
+        "best": "00:02:51",
+        "relevance": 0.2347613424062729
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:01:57",
+        "end": "00:02:11",
+        "best": "00:01:59",
+        "relevance": 0.2342146933078766
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:01:45",
+        "end": "00:01:57",
+        "best": "00:01:50",
+        "relevance": 0.23388080298900604
+    },
+    {
+        "documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d",
+        "documentKind": "VideoInterval",
+        "start": "00:00:32.0320000",
+        "end": "00:00:36.0030000",
+        "best": "00:00:33",
+        "relevance": 0.2334972769021988
+    },
+    {
+        "documentId": "43b6d3ad-ffb5-414a-bea4-43f9dd2ec0fc",
+        "documentKind": "VideoInterval",
+        "start": "00:00:29.0290000",
+        "end": "00:00:31.0310000",
+        "best": "00:00:29.0290000",
+        "relevance": 0.2330576777458191
+    },
+    {
+        "documentId": "02a504c9cd28296a8b74394ed7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:04.0040000",
+        "end": "00:00:09.0090000",
+        "best": "00:00:04.0040000",
+        "relevance": 0.23303785920143127
+    },
+    {
+        "documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe",
+        "documentKind": "VideoInterval",
+        "start": "00:00:04.0040000",
+        "end": "00:00:09.0090000",
+        "best": "00:00:04.0040000",
+        "relevance": 0.23303785920143127
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:27",
+        "end": "00:00:32",
+        "best": "00:00:27",
+        "relevance": 0.23234480619430542
+    },
+    {
+        "documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:35.0020000",
+        "end": "00:00:41.0080000",
+        "best": "00:00:35.0020000",
+        "relevance": 0.2293599247932434
+    },
+    {
+        "documentId": "63527c7e-ff44-4899-89de-daafa1ea077b",
+        "documentKind": "VideoInterval",
+        "start": "00:00:52.0190000",
+        "end": "00:00:54.0210000",
+        "best": "00:00:52.0190000",
+        "relevance": 0.22821788489818573
+    },
+    {
+        "documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d",
+        "documentKind": "VideoInterval",
+        "start": "00:00:59.0260000",
+        "end": "00:01:01.0280000",
+        "best": "00:00:59.0260000",
+        "relevance": 0.22821788489818573
+    },
+    {
+        "documentId": "63527c7e-ff44-4899-89de-daafa1ea077b",
+        "documentKind": "VideoInterval",
+        "start": "00:00:30.0300000",
+        "end": "00:00:33",
+        "best": "00:00:32.0320000",
+        "relevance": 0.22798776626586914
+    },
+    {
+        "documentId": "02a504c9cd28296a8b74394ed7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:01:05.0320000",
+        "end": "00:01:07",
+        "best": "00:01:05.0320000",
+        "relevance": 0.22766970098018646
+    },
+    {
+        "documentId": "b9b2bc89-67c1-4fba-932f-ed8c4a0ac2fe",
+        "documentKind": "VideoInterval",
+        "start": "00:01:05.0320000",
+        "end": "00:01:07",
+        "best": "00:01:05.0320000",
+        "relevance": 0.22766970098018646
+    },
+    {
+        "documentId": "63527c7e-ff44-4899-89de-daafa1ea077b",
+        "documentKind": "VideoInterval",
+        "start": "00:00:46.0130000",
+        "end": "00:00:52.0190000",
+        "best": "00:00:46.0130000",
+        "relevance": 0.22695504128932953
+    },
+    {
+        "documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39",
+        "documentKind": "VideoInterval",
+        "start": "00:01:03.0300000",
+        "end": "00:01:05.0320000",
+        "best": "00:01:03.0300000",
+        "relevance": 0.2256278097629547
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:00",
+        "end": "00:00:05",
+        "best": "00:00:01",
+        "relevance": 0.22518450021743774
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:01:41",
+        "end": "00:01:45",
+        "best": "00:01:41",
+        "relevance": 0.22488512098789215
+    },
+    {
+        "documentId": "02a504c9cd28296a8b743lmded7488045",
+        "documentKind": "VideoInterval",
+        "start": "00:00:32",
+        "end": "00:00:39",
+        "best": "00:00:35",
+        "relevance": 0.22465252876281738
+    },
+    {
+        "documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d",
+        "documentKind": "VideoInterval",
+        "start": "00:00:06.0060000",
+        "end": "00:00:11.0110000",
+        "best": "00:00:06.0060000",
+        "relevance": 0.22387181222438812
+    },
+    {
+        "documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d",
+        "documentKind": "VideoInterval",
+        "start": "00:00:41.0080000",
+        "end": "00:00:47.0140000",
+        "best": "00:00:45.0120000",
+        "relevance": 0.2236659824848175
+    },
+    {
+        "documentId": "63527c7e-ff44-4899-89de-daafa1ea077b",
+        "documentKind": "VideoInterval",
+        "start": "00:00:11.0110000",
+        "end": "00:00:15.0150000",
+        "best": "00:00:14.0140000",
+        "relevance": 0.22325311601161957
+    },
+    {
+        "documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0",
+        "documentKind": "VideoInterval",
+        "start": "00:01:04.0310000",
+        "end": "00:01:06.0330000",
+        "best": "00:01:04.0310000",
+        "relevance": 0.22141671180725098
+    },
+    {
+        "documentId": "97c08a85-7d0c-4edc-bc4b-b9cdcfaec2c0",
+        "documentKind": "VideoInterval",
+        "start": "00:01:47.0070000",
+        "end": "00:01:49.0090000",
+        "best": "00:01:47.0070000",
+        "relevance": 0.22111861407756805
+    },
+    {
+        "documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d",
+        "documentKind": "VideoInterval",
+        "start": "00:00:55.0220000",
+        "end": "00:00:59.0260000",
+        "best": "00:00:57.0240000",
+        "relevance": 0.21990454196929932
+    },
+    {
+        "documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39",
+        "documentKind": "VideoInterval",
+        "start": "00:00:04.0040000",
+        "end": "00:00:08.0080000",
+        "best": "00:00:07.0070000",
+        "relevance": 0.21802262961864471
+    },
+    {
+        "documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:09.0090000",
+        "end": "00:00:17.0170000",
+        "best": "00:00:14.0140000",
+        "relevance": 0.2157011181116104
+    },
+    {
+        "documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:24.0240000",
+        "end": "00:00:29.0290000",
+        "best": "00:00:26.0260000",
+        "relevance": 0.21423637866973877
+    },
+    {
+        "documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d",
+        "documentKind": "VideoInterval",
+        "start": "00:00:26.0260000",
+        "end": "00:00:32.0320000",
+        "best": "00:00:26.0260000",
+        "relevance": 0.21160700917243958
+    },
+    {
+        "documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:58.0250000",
+        "end": "00:01:04.0310000",
+        "best": "00:01:00.0270000",
+        "relevance": 0.20774637162685394
+    },
+    {
+        "documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39",
+        "documentKind": "VideoInterval",
+        "start": "00:00:23.0230000",
+        "end": "00:00:26.0260000",
+        "best": "00:00:23.0230000",
+        "relevance": 0.20391038060188293
+    },
+    {
+        "documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:44.0110000",
+        "end": "00:00:47.0140000",
+        "best": "00:00:44.0110000",
+        "relevance": 0.20303396880626678
+    },
+    {
+        "documentId": "ac01f651-25b8-4672-a395-8a7c488dcf39",
+        "documentKind": "VideoInterval",
+        "start": "00:00:20.0200000",
+        "end": "00:00:23.0230000",
+        "best": "00:00:22.0220000",
+        "relevance": 0.19446420669555664
+    },
+    {
+        "documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d",
+        "documentKind": "VideoInterval",
+        "start": "00:00:17.0170000",
+        "end": "00:00:22.0220000",
+        "best": "00:00:20.0200000",
+        "relevance": 0.19342145323753357
+    },
+    {
+        "documentId": "a2703a25-1a34-4f2b-acaa-a2650063c8c0",
+        "documentKind": "VideoInterval",
+        "start": "00:00:20.0200000",
+        "end": "00:00:24.0240000",
+        "best": "00:00:22.0220000",
+        "relevance": 0.18760694563388824
+    },
+    {
+        "documentId": "cac6c4e5-453d-4ea7-8073-7740975ea96d",
+        "documentKind": "VideoInterval",
+        "start": "00:00:11.0110000",
+        "end": "00:00:14.0140000",
+        "best": "00:00:11.0110000",
+        "relevance": 0.1844329535961151
+    }
+]
